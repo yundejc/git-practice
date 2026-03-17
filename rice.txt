@@ -1,2 +1,8 @@
-rice is the most important crop in asia
-6
+rice is the most important crop in asia.
+
+Information from Wikipedia:
+Rice is the seed of the grass species Oryza sativa (Asian rice) or
+less commonly O. glaberrima (African rice).
+
+rice is good for human
+
